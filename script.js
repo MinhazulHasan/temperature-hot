@@ -1,6 +1,6 @@
 const api = {
     key: "fbf9967b7898810d1c2d9bec7fed35c3",
-    base: "http://api.openweathermap.org/data/2.5/"
+    base: "https://api.openweathermap.org/data/2.5/"
 }
 const place = document.getElementById('place');
 const temperature = document.getElementById('temperature');
